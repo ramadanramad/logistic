@@ -24,7 +24,7 @@ Anda dapat melihat halaman web yang telah dibuat dengan mengikuti langkah-langka
      
    - Masuk ke direktori proyek:
      https://github.com/ramadanramad/logistic
-   - Buka file index.html di browser Anda atau jalankan menggunakan server lokal.
+   - Buka file index.html di visual studio code Anda atau jalankan link tersebut menggunakan server lokal.
 
 **Catatan**: Pastikan Anda memiliki akses internet dan mengikuti konfigurasi hosting yang sesuai untuk melihat halaman dengan sempurna.
 
